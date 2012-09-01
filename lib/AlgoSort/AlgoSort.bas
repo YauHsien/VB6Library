@@ -1,4 +1,5 @@
 Attribute VB_Name = "AlgoSort"
+-Attribute VB_Name = "AlgoSort"
 Option Explicit
 
 Public Enum SortOrderEnum
@@ -82,3 +83,4 @@ Public Function test() As Boolean
 err_test:
     MsgBox Err.Description
 End Function
+
